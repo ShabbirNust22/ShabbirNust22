@@ -1,8 +1,10 @@
 <h1 align="center">Ahmed Shabbir Ibrahim Moomin 😃⚡</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shabbir-moomin&color=blue&style=flat-square" alt="Profile Views">
-  &nbsp;&nbsp;<strong>Thank you for viewing my portfolio</strong>
+  &nbsp;&nbsp;<strong>Thank you for visiting my portfolio repository.</strong>
 </p>
+
+
 
 
 <h2 align="center">Role: Engineer (Primary) | Data Analytics | Machine Learning Tools | Artificial Intelligence Techniques | Full Stack Developer</h2>
@@ -19,6 +21,9 @@
   <a href="https://www.facebook.com/Shabbir.Moomin.88"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/shabbir.moomin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@shabbir.moomin"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ahmedshabbirmoomin5543">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
   <a href="https://x.com/shabbirMoomin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <!--<a href="https://imo.im/imoid_YXpDESmf6r"><img src="https://img.shields.io/badge/IMO-1E90FF?style=for-the-badge&logo=imo&logoColor=white"></a> -->
 </p>
@@ -64,6 +69,7 @@
 [![Gen AI: Projects](https://img.shields.io/badge/Gen_AI_(Projects)-pink)](https://drive.google.com/drive/u/0/folders/1JxStfsufw0bohHTFHCh9-1PyRDO4HZlO)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-lightblue)
 ![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)
+![Google CoLab](https://img.shields.io/badge/Google_CoLab-grey)
 ![PowerBI (Dashboard-Visualization)](https://img.shields.io/badge/PowerBI_(Dashboard_Visualization)-yellow)
 ![Large Language Models (LLMs)](https://img.shields.io/badge/Large_Language_Models_(LLMs)-red)
 ![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval_Augmented_Generation_(RAG)-black)
@@ -72,7 +78,36 @@
 
 <p align="justify">Electrical, Electronics and Automation:</p>
 
+![Industrial Automation Control](https://img.shields.io/badge/Industrial_Automation_Control-olive)
+![Sensors and Actuators](https://img.shields.io/badge/Sensors_and_Actuators-teal)
+![Induction and Electric Motors](https://img.shields.io/badge/Induction_and_Electric_Motors-fuchsia)
+![Electricity Transmission lines](https://img.shields.io/badge/Electricity_Transmission_lines-indigo)
+![Solar and Wind Microgrids](https://img.shields.io/badge/Solar_and_Wind_Microgrids-black)
+![Programmable Logic Controllers](https://img.shields.io/badge/Programmable_Logic_Controllers-grey)
+![Smart Grid Engineering](https://img.shields.io/badge/Smart_Grid_Engineering-cyan)
+![Circuit Breakers](https://img.shields.io/badge/Circuit_Breakers-fuchsia)
+![MATLAB Simulink](https://img.shields.io/badge/MATLAB_Simulink-grey)
+![GNU Octave](https://img.shields.io/badge/GNU_Octave-grey)
+![National Instruments LabVIEW](https://img.shields.io/badge/National_Instruments_LabVIEW-grey)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-red)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-red)
+![HOMER and PVSyst Simulation Software](https://img.shields.io/badge/HOMER_and_PVSyst_Simulation_Software-black)
+![Circuit Simulation and Schematics](https://img.shields.io/badge/Circuit_Simulation_and_Schematics-grey)
+![Pspice Engine Circuit Simulation](https://img.shields.io/badge/Pspice_Engine_Circuit_Simulation-grey)
+![Autodesk Eagle PCB](https://img.shields.io/badge/Autodesk_Eagle_PCB-grey)
+![PCB Artist](https://img.shields.io/badge/PCB_Artist-grey)
+![EasyEDA PCB](https://img.shields.io/badge/EasyEDA_PCB-grey)
+![Autodesk Tinker Circuit Dashboard](https://img.shields.io/badge/Autodesk_Tinker_Circuit_Dashboard-grey)
+![Proteus Design Suite](https://img.shields.io/badge/Proteus_Design_Suite-grey)
 
+
+<p align="justify">Software Engineering:</p>
+
+![C#](https://img.shields.io/badge/C#-grey)
+![VB.Net](https://img.shields.io/badge/VB.Net-grey)
+![Microsoft Visual Studio IDE](https://img.shields.io/badge/Microsoft_Visual_Studio_IDE-grey)
+![VB.Net](https://img.shields.io/badge/VB.Net-grey)
+![Android Studio IDE](https://img.shields.io/badge/Android_Studio_IDE-grey)
 
 Updated documents 
 Published Research Thesis: https://www.cell.com/heliyon/fulltext/S2405-8440(24)12016-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844024120166%3Fshowall%3Dtrue
