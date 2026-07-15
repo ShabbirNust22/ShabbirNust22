@@ -134,10 +134,9 @@
 
 <h2 align="left">👔 Professional Experience</h2>
 <br>
-<p align="justify">
-• Technical Consultant (Remote) | PayGam Global, London, UK | March 2026 – Present
-  At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern     
-  technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.
+<p align="justify">• Technical Consultant (Remote) | PayGam Global, London, UK | March 2026 – Present</p>
+
+<p align="justify">At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.</p>
 
   Our vision is to accelerate Africa’s transition to a modern cashless society, enhance consumer experiences, and enable businesses of all sizes to thrive           digitally. By reshaping the future of payments, we aim to unlock unlimited possibilities for Africa’s economic growth.
 
