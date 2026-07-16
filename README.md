@@ -138,17 +138,25 @@
 
 <p align="justify">At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.</p>
 
-  Our vision is to accelerate Africa’s transition to a modern cashless society, enhance consumer experiences, and enable businesses of all sizes to thrive           digitally. By reshaping the future of payments, we aim to unlock unlimited possibilities for Africa’s economic growth.
+<p align="justify">Our vision is to accelerate Africa’s transition to a modern cashless society, enhance consumer experiences, and enable businesses of all sizes to thrive digitally. By reshaping the future of payments, we aim to unlock unlimited possibilities for Africa’s economic growth.</p>
+  
+<p>My duties:</p>
+  <ul>
+    <li>Visualized and interpreted transaction and consumer data using Python (pandas, seaborn, matplotlib) to             identify trends and anomalies in payment systems.</li>
+    <li>Managed and queried SQL databases (MySQL, PostgreSQL, Oracle) to support secure and scalable financial             infrastructure.</li>
+    <li>Applied statistical models (regression, hypothesis testing, probability) to analyze payment behaviors and          optimize digital adoption strategies.</li>
+    <li>Built predictive machine learning models with Scikit‑learn and TensorFlow (classification, regression,             clustering, PCA) to forecast customer churn and transaction patterns.</li>
+    <li>Designed interactive dashboards in Power BI, Tableau, and Excel to deliver actionable insights for SMEs,           corporates, and government stakeholders.</li>
+    <li>Automated workflows using n8n and Python scripts, streamlining payment data pipelines for efficiency and           accuracy.</li>
+    <li>Prepared structured reports in Jupyter Notebook, documenting methodologies and sharing findings with               cross‑functional teams.</li>
+    <li>Conducted real‑world analyses, including churn prediction and performance scoring, using Orange Data               Mining to enhance consumer experience and empower digital growth.</li>
+</ul>  
+   
 
-  My duties:
-    - Visualized and interpreted transaction and consumer data using Python (pandas, seaborn, matplotlib) to identify trends and anomalies in payment systems.
-    - Managed and queried SQL databases (MySQL, PostgreSQL, Oracle) to support secure and scalable financial infrastructure.
-    - Applied statistical models (regression, hypothesis testing, probability) to analyze payment behaviors and optimize digital adoption strategies.
-    - Built predictive machine learning models with Scikit‑learn and TensorFlow (classification, regression, clustering, PCA) to forecast customer churn and             transaction patterns.
-    - Designed interactive dashboards in Power BI, Tableau, and Excel to deliver actionable insights for SMEs, corporates, and government stakeholders.
-    - Automated workflows using n8n and Python scripts, streamlining payment data pipelines for efficiency and accuracy.
-    - Prepared structured reports in Jupyter Notebook, documenting methodologies and sharing findings with cross‑functional teams.
-    - Conducted real‑world analyses, including churn prediction and performance scoring, using Orange Data Mining to enhance consumer experience and empower             digital growth.
+
+
+
+
 
 • Full Stack Developer (Contract / Remote) | AeroSenergy Software Development, Islamabad, Pakistan | July 2025 – Present
   1. Development & Engineering:
