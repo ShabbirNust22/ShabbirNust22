@@ -227,6 +227,7 @@ Promoted from intern to Associate Engineer, managing engineering design/drawing 
 o
 Engineered electrical control systems for Single/3-phase induction motors, components’ sales and marketing to clients, Busbar current flow, and provided technical advisory for large-scale industrial site visits.Multidisciplinary Engineer with 8+ years of expertise spanning power systems, industrial automation, and software engineering. Demonstrated success in developing numerous Artificial Intelligence/Machine Language models and full-stack applications to optimize smart grids and renewable energy systems. A proactive problem-solver with a global track record in project management, digital marketing, and cross-functional leadership.</p>
 
+LinkedIn: https://www.linkedin.com/in/shabbir-moomin
 <!--Updated documents 
 Published Research Thesis: https://www.cell.com/heliyon/fulltext/S2405-8440(24)12016-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844024120166%3Fshowall%3Dtrue
 
