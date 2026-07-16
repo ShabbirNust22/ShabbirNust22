@@ -134,7 +134,7 @@
 
 <h2 align="left">👔 Professional Experience</h2>
 <br>
-<p align="justify">• Technical Consultant (Remote) | PayGam Global, London, UK | March 2026 – Present</p>
+<h3 align="justify">• Technical Consultant (Remote) | PayGam Global, London, UK | March 2026 – Present</h3>
 
 <p align="justify">At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.</p>
 
@@ -152,19 +152,19 @@
     <li>Conducted real‑world analyses, including churn prediction and performance scoring, using Orange Data               Mining to enhance consumer experience and empower digital growth.</li>
 </ul>  
    
+<h3 align="justify">• Full Stack Developer (Contract / Remote) | AeroSenergy Software Development, Islamabad, Pakistan | July 2025 – Present</h3>
+<br>
+  <p>1. Development & Engineering:</p>
+    <ul>
+      <li>Design, develop, and maintain full-stack web applications, ensuring responsive front-end interfaces and            scalable back-end services tailored to project requirements.</li>
+      <li>Develop and collaborate on front-end architectures using HTML, CSS, JavaScript (React, jQuery, Tailwind             CSS) and back-end environments including PHP, Python, and Node.js.</li>
+      <li>Write clean, maintainable, and thoroughly tested code using modern frameworks and best practices, while            participating in peer code reviews to maintain high quality.</li>
+      <li>Implement secure development practices, incorporating robust authentication, authorization protocols,              and rigorous performance tuning.</li>
+      <li>Integrate APIs and third-party services to enable seamless interaction between external platforms and              internal systems.</li> 
+    </ul>
 
 
-
-
-
-
-• Full Stack Developer (Contract / Remote) | AeroSenergy Software Development, Islamabad, Pakistan | July 2025 – Present
-  1. Development & Engineering:
-    - Design, develop, and maintain full-stack web applications, ensuring responsive front-end interfaces and scalable back-end services tailored to project             requirements.
-    - Develop and collaborate on front-end architectures using HTML, CSS, JavaScript (React, jQuery, Tailwind CSS) and back-end environments including PHP,              Python, and Node.js.
-    - Write clean, maintainable, and thoroughly tested code using modern frameworks and best practices, while participating in peer code reviews to maintain high        quality.
-    - Implement secure development practices, incorporating robust authentication, authorization protocols, and rigorous performance tuning.
-    - Integrate APIs and third-party services to enable seamless interaction between external platforms and internal systems.
+   
 
   2. Database & Documentation:
     - Architect and manage relational and NoSQL database systems, optimizing for data integrity, high availability, and cross-environment performance.
