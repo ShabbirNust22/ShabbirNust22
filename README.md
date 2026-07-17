@@ -42,7 +42,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Shabbir.Moomin.88)
 -->
 
-<h2 align="left">🎓 Professional Summary</h2>
+<h2 align="left">🧔🏻‍♂️ Professional Summary</h2>
 <p align="justify">Multidisciplinary Engineer with 8+ years of expertise spanning power systems, industrial automation, and software engineering. Demonstrated success in developing numerous Artificial Intelligence/Machine Language models and full-stack applications to optimize smart grids and renewable energy systems. A proactive problem-solver with a global track record in project management, digital marketing, and cross-functional leadership.</p>
 
 <p align="justify">
@@ -133,10 +133,10 @@
 ![Arduino Motor Control Software](https://img.shields.io/badge/Arduino_Motor_Control_Software-mediumorchid)
 ![Embedded Linux (Kernal) Development](https://img.shields.io/badge/Embedded_Linux_(Kernal)_Development-darkkhaki)
 
+<hr>
 
 <h2 align="left">👔 Professional Experience</h2>
-<br>
-<h3 align="justify"><b>Technical Consultant (Remote) | PayGam Global, London, UK | March 2026 – Present</b></h3>
+<h3 align="justify"><b>Technical Consultant (Remote) | <i>PayGam Global, London, UK</i> | March 2026 – Present</b></h3>
 
 <p align="justify">At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.</p>
 
@@ -154,7 +154,7 @@
     <li>Conducted real‑world analyses, including churn prediction and performance scoring, using Orange Data Mining to enhance consumer experience and empower digital growth.</li>
 </ul>  
    
-<h3 align="justify"><b>Full Stack Developer (Contract / Remote) | AeroSenergy Software Development, Islamabad, Pakistan | July 2025 – Present</b></h3>
+<h3 align="justify"><b>Full Stack Developer (Contract / Remote) | <i>AeroSenergy Software Development, Islamabad, Pakistan</i> | July 2025 – Present</b></h3>
 <br>
 <p><b>1. Development & Engineering:</b></p>
     <ul>
@@ -181,7 +181,7 @@
   </ul>
 
  
-<h3 align="justify"><b>Tourism Marketing Coordinator (Part-Time / Remote) | Mack Tours LK Limited, UK | April 2025 – Present</b></h3>
+<h3 align="justify"><b>Tourism Marketing Coordinator (Part-Time / Remote) | <i>Mack Tours LK Limited, UK</i> | April 2025 – Present</b></h3>
 <br>    
   <ul>
     <li>Serving as Tourism Marketing Coordinator at Mack Tours LK Limited (UK).</li>
@@ -194,7 +194,7 @@
     <li>Enhancing Mack Tours LK Limited’s global brand presence through impactful storytelling and campaigns.</li>   
   </ul>
 
-<h3 align="justify"><b></b>Artificial Intelligence Engineer Intern (Remote)</b> | Sri Lanka IT Training Foundation (SLITT), Colombo, Sri Lanka | May 2025 – Nov 2025</h3>
+<h3 align="justify"><b></b>Artificial Intelligence Engineer Intern (Remote)</b> | <i>Sri Lanka IT Training Foundation (SLITT), Colombo, Sri Lanka</i> | May 2025 – Nov 2025</h3>
 <br>  
   <ul>
     <li>Collaboration : AI Development and Automation Agency, Colombo, Sri Lanka</li>
@@ -205,10 +205,10 @@
     <li>Boosted SEO performance through intelligent content monitoring, keyword analysis, and automation of meta-tag updates.</li>
     <li>Fine-tuned open-source AI models and integrated APIs to create scalable, low-latency inference pipelines.</li>
     <li>Collaborated in cross-functional teams to deploy Machine Learning pipelines, monitor model drift, and improve production model performance.</li>
-    <li>Applied prompt engineering and vector search to support intelligent search functions and chatbot capabilities.</li>j    
+    <li>Applied prompt engineering and vector search to support intelligent search functions and chatbot capabilities.</li>    
   </ul>
 
-<h3 align="justify"><b></b>Research Assistant (Smart Grid and Power Lab)</b> – Full Time | USPCAS-E, NUST, Islamabad, Pakistan | Jun 2023 - Sep 2024.</h3>
+<h3 align="justify"><b></b>Research Assistant (Smart Grid and Power Lab)</b> – Full Time | <i>USPCAS-E, NUST, Islamabad, Pakistan</i> | Jun 2023 - Sep 2024.</h3>
 <br> 
   <ul>
     <li><b>Research Thesis Title 01:</b> <a href="https://github.com/ShabbirNust22/Research_Thesis_one_Machine_Learning_Techniques_for_PowerSystem">Detecting Voltage Sinusoidal Harmonics using Artificial Intelligence/Machine Learning Techniques</a></li>
@@ -231,7 +231,7 @@
       <li><b>Lab Hands-On assistant</b>in Electronics, Automation, Machine Learning Techniques and Artificial Intelligence Tools</li>
   </ul>
 
-<h3 align="justify"><b></b>Associate Engineer (R&D / Product Support / Internship)</b> – Full Time  | Electro Serv, Colombo, Sri Lanka | June 2016 – March 2020</h3>
+<h3 align="justify"><b></b>Associate Engineer (R&D / Product Support / Internship)</b> – Full Time  | <i>Electro Serv, Colombo, Sri Lanka</i> | June 2016 – March 2020</h3>
 <br> 
   <ul>
     <li>To identify and analyze Schneider Electrical component parts numbers.</li>
@@ -250,6 +250,164 @@
 
 <hr>
 
+<h2 align="left">🎓 Education</h2>
+<h3 align="justify"><b>Master Course in Data Analytics, Data Science, Machine Learning, Deep Learning and Natural Language Processing | <i>Udemy (Online) Learning Platform, California, USA</i> | January 2026 – July 2026</b></h3>
+<a href="https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing" target="_blank">View Certificate</a>
+<br>
+<p align="justify">
+  <ul style="font-size:16px; line-height:1.6;">
+    <li>📊 <b>Master Data Analytics from a Clear Roadmap</b> – build knowledge step by step, ensuring every concept connects logically to the next.</li>
+    <li>🐍 <b>Python Programming from Beginner to Advanced</b> – variables, data structures, OOP, APIs, web scraping, file handling, and real‑world coding                     workflows.</li>
+    <li>🧹 <b>Data Cleaning & Manipulation Skills</b> – handle missing values, duplicates, inconsistent data, joins, filters, and transformations to prepare                   datasets for analysis.</li>
+    <li>🔍 <b>Exploratory Data Analysis (EDA)</b> – discover hidden patterns, trends, and insights using Python and statistical techniques.</li>
+    <li>📈 <b>Data Visualization Expertise</b> – create impactful charts, dashboards, and visuals in Python, Excel, and Power BI to communicate insights clearly.</li>
+    <li>📐 <b>Strong Statistical Foundation</b> – probability, distributions, hypothesis testing, correlation, regression, ANOVA, and statistical interpretation               for real decisions.</li>
+    <li>✅ <b>Hypothesis Testing & Evidence‑Based Analysis</b> – confidently validate insights with statistical rigor.</li>
+    <li>🔄 <b>End‑to‑End Data Science Workflow</b> – from business understanding and data preparation to modeling, evaluation, and deployment.</li>
+    <li>🤖 <b>Machine Learning Mastery</b> – regression, classification, clustering, ensemble methods, boosting algorithms, and hyperparameter tuning.</li>
+    <li>⚙️ <b>Hands‑On ML Implementation in Python</b> – build, validate, and optimize models with scikit‑learn, CatBoost, LightGBM, and XGBoost.</li>
+    <li>🧠 <b>Deep Learning with TensorFlow</b> – neural networks, tensors, training workflows, and solving real problems with AI.</li>
+    <li>💬 <b>Natural Language Processing (NLP)</b> – text analysis, language translation, chatbot development, and generative AI applications.</li>
+    <li>🎨 <b>Generative AI & Prompt Engineering</b> – text, image, audio, and video generation with advanced prompting strategies.</li>
+    <li>💾 <b>SQL & MySQL for Data Analysis</b> – query, filter, join, group, and analyze business data directly from relational databases.</li>
+    <li>📊 <b>Excel & Power BI Dashboards</b> – transform raw data into interactive reports, KPIs, and decision‑ready insights.</li>
+    <li>🏆 <b>11 Capstone Projects</b> – build a portfolio with real‑world projects (bank churn analysis, HR analytics, GenAI chatbot, video summarizer, language              translator, and more).</li>
+    <li>🎯 <b>Interview Preparation & Confidence</b> – practice coding exercises, role‑play interviews, and project explanations to stand out in job applications.</li>
+    <li>🚀 <b>AI‑Powered Data Workflows</b> – leverage GPT‑4 and modern AI tools to accelerate cleaning, analysis, and model development.</li>
+  </ul>
+</p>
+
+<h3 align="justify"><b>Master of Science in Electrical Engineering (Power) with Research Thesis (Published: Heliyon) | <i>US-Pakistan Center for Advanced Studies in Energy, National University of Sciences and Technology, Islamabad, Pakistan</i> | September 2022 – September 2024</b></h3>
+<a href="https://drive.google.com/file/d/1jUROIBSaP1Ncsb9CNXQ3E7RqPUQ4TX2o/view?usp=sharing" target="_blank">View Certificate</a>
+<br>
+<p align="justify">
+  <ul style="font-size:16px; line-height:1.6; list-style-type:none; padding:0;">
+    <!-- 1st Semester -->
+    <li style="background:#f0f8ff; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Power Systems Analysis (EE-863)</b></li>
+    <li style="background:#f0f8ff; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Power System Operation, Control and Optimization (EE-800)</b></li>
+    <li style="background:#f0f8ff; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Advanced Power System Stability and Transient Studies (EEE-802)</b></li>
+    <li style="background:#f0f8ff; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Electric Power Quality (EEE-811)</b></li>
+    <!-- 2nd Semester -->
+    <li style="background:#fff0f5; margin:6px 0; padding:8px; border-radius:6px;">🤖 <b>Machine Learning (CS-871)</b></li>
+    <li style="background:#fff0f5; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Alternating Current Electrical Machines and Drives (EE-861)</b></li>
+    <li style="background:#fff0f5; margin:6px 0; padding:8px; border-radius:6px;">🌱 <b>Clean Energy Generation, Integration and Storage (EEE-801)</b></li>
+    <li style="background:#fff0f5; margin:6px 0; padding:8px; border-radius:6px;">💻 <b>Computer Modeling of Electrical Power System (EEE-813)</b></li>
+    <!-- 3rd Semester -->
+    <li style="background:#f0ffff; margin:6px 0; padding:8px; border-radius:6px;">⚡ <b>Electric Power Markets (EPE-816)</b></li>
+    <!-- Thesis -->
+    <li style="background:#ffffe0; margin:6px 0; padding:8px; border-radius:6px;">📑 <b>MS Thesis (EEE-899)</b></li>
+    <!-- Additional Subjects -->
+    <li style="background:#f5f5dc; margin:6px 0; padding:8px; border-radius:6px;">🌍 <b>French Language Level-1 (HU-120)</b> - Qualified</li>
+    <li style="background:#f5f5dc; margin:6px 0; padding:8px; border-radius:6px;">📚 <b>Research Methodology (RM-898)</b> - Qualified</li>
+  </ul>
+</p>
+
+<h3 align="justify"><b>Bachelor of Science in Electronics and Automation Technologies | <i>University of Colombo, Sri Lanka</i> | January 2020 – January 2023</b></h3>
+<!--<a href="https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing" target="_blank">View Certificate</a>-->
+
+[![University of Colombo, Sri Lanka - Certificate](https://img.shields.io/badge/University_of_Colombo_|_Certificate-crimson?style=for-the-badge)](https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing)
+<p align="justify">This program integrates physics, electronics, computing, and automation to build expertise in both theoretical and applied technologies. Students gain hands‑on experience through laboratory work, programming projects, and research, preparing for careers in embedded systems, automation, AI, and industrial electronics.</p>
+<p align="justify">
+  <h3>Year 01 Modules</h3>
+  <table border="5" cellspacing="10" cellpadding="10">
+    <tr>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1001 – Waves and Vibrations & AC Theory</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1002 – Analogue & Digital Electronics I</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1003 – Electromagnetic Theory</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1004 – Introduction to Computer Programming</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1005 – Computer Applications</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1006 – Computer Architecture I</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1007 – Electronic Circuit Simulations</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1008 – Object Oriented Programming</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1009 – Calculus</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1010 – Mathematical Methods I</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1011 – Differential Equations</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1012 – Probability and Statistics</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">📘 <b>EA1013 – English for Science and Technology</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">🔬 <b>EA1030 – Analogue Electronic Laboratory</b></td>
+      <td style="background:#f0f8ff; border-radius:6px;" align="center" valign="middle">🔬 <b>EA1031 – Digital Electronic Laboratory</b></td>
+    </tr>
+  </table>
+</p>
+
+
+<p align="justify">
+  <h3>Year 02 Modules</h3>
+  <table border="5" cellspacing="10" cellpadding="10">
+    <tr>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">⚡ <b>EA2001 – Analogue & Digital Electronics II</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">⚡ <b>EA2002 – Analogue & Digital ICs and Data Acquisition</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">⚡ <b>EA2003 – Sensors & Transducers and Data</b></td>
+    </tr>
+    <tr>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">💻 <b>EA2004 – Computer Architecture II</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">💻 <b>EA2005 – Applied Numerical Methods</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">💻 <b>EA2006 – Internet Programming</b></td>
+    </tr>
+    <tr>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">📡 <b>EA2007 – Data Communication Techniques</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">⚡ <b>EA2008 – Rapid Applications Development</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">📊 <b>EA2009 – Computational Statistics</b></td>
+    </tr>
+    <tr>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">📊 <b>EA2010 – Mathematical Methods II</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">📝 <b>EA2011 – Technical Writing for Academic Purposes</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">🗣️ <b>EA2012 – Advanced Communicative Skills</b></td>
+    </tr>
+    <tr>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">🏭 <b>EA2013 – Industrial Management</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">🔬 <b>EA2030 – Instrumentation Laboratory</b></td>
+      <td style="background:#fff0f5; border-radius:6px;" align="center" valign="middle">🔬 <b>EA2031 – Data Acquisition Laboratory</b></td>
+    </tr>
+  </table>
+</p>
+
+
+<p align="justify">
+  <h3>Year 03 Modules</h3>
+  <table border="5" cellspacing="10" cellpadding="10">
+    <tr>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🔬 <b>EA3001 – Semiconductor Devices and Optoelectronics</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">📊 <b>EA3002 – Digital Signal Processing</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🖼️ <b>EA3003 – Digital Image Processing</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🧠 <b>EA3004 – Artificial Neural Networks</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">📱 <b>EA3005 – Mobile Application Development</b></td>
+      <td style="background:#f0ffff; border-radius:6px;">🐧 <b>EA3006 – Embedded Linux Development</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🌐 <b>EA3007 – Computer Networking</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🤖 <b>EA3021 – Robotics</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">⚙️ <b>EA3022 – Programmable Logic Controllers</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🩺 <b>EA3023 – Medical Instrumentation</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🔬 <b>EA3030 – Microcontroller Laboratory</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">📚 <b>EA3040 – Research Methodologies</b></td>
+    </tr>
+    <tr>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🧩 <b>EA3041 – Independent Study</b></td>
+      <td style="background:#f0ffff; border-radius:6px;" align="center" valign="middle">🏆 <b>EA3050 – Project</b></td>
+      <td></td>
+    </tr>
+  </table>
+</p>
+
+
+
+    
+    
+    
+    fvfv
 https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing
 <!--Updated documents 
 Published Research Thesis: https://www.cell.com/heliyon/fulltext/S2405-8440(24)12016-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844024120166%3Fshowall%3Dtrue
