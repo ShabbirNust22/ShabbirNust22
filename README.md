@@ -278,8 +278,11 @@
 </p>
 
 <h3 align="justify"><b>Master of Science in Electrical Engineering (Power) with Research Thesis (Published: Heliyon) | <i>US-Pakistan Center for Advanced Studies in Energy, National University of Sciences and Technology, Islamabad, Pakistan</i> | September 2022 – September 2024</b></h3>
-<a href="https://drive.google.com/file/d/1jUROIBSaP1Ncsb9CNXQ3E7RqPUQ4TX2o/view?usp=sharing" target="_blank">View Certificate</a>
-<br>
+
+[![National University of Sciences and Technology, Pakistan - Certificate](https://img.shields.io/badge/National_University_of_Sciences_and_Technology_|_Certificate-navy?style=for-the-badge)](https://drive.google.com/file/d/1jUROIBSaP1Ncsb9CNXQ3E7RqPUQ4TX2o/view?usp=sharing)
+[![Convocation](https://img.shields.io/badge/Convocation-chocolate?style=for-the-badge)](https://drive.google.com/file/d/1s-8W52hHJZ0ixy5H3PkdLyL3KlmF-SL2/view?usp=sharing)
+<!--<a href="https://drive.google.com/file/d/1jUROIBSaP1Ncsb9CNXQ3E7RqPUQ4TX2o/view?usp=sharing" target="_blank">View Certificate</a>-->
+<p align="justify">This program combined advanced power engineering, computational modeling, and clean‑energy research. Through coursework and a published thesis, Ahmed Shabbir Ibrahim Moomin developed expertise in power‑system stability, optimization, and AI‑based energy forecasting, contributing to sustainable‑energy innovation in Pakistan and beyond.</p>
 <p align="justify">
   <ul style="font-size:16px; line-height:1.6; list-style-type:none; padding:0;">
     <!-- 1st Semester -->
@@ -306,6 +309,7 @@
 <!--<a href="https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing" target="_blank">View Certificate</a>-->
 
 [![University of Colombo, Sri Lanka - Certificate](https://img.shields.io/badge/University_of_Colombo_|_Certificate-crimson?style=for-the-badge)](https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing)
+[![Convocation](https://img.shields.io/badge/Convocation-darkslateblue?style=for-the-badge)](https://drive.google.com/file/d/1Zoc8M74LI3uLGZXGWQUs0WEt73Ue66KT/view?usp=sharing)
 <p align="justify">This program integrates physics, electronics, computing, and automation to build expertise in both theoretical and applied technologies. Students gain hands‑on experience through laboratory work, programming projects, and research, preparing for careers in embedded systems, automation, AI, and industrial electronics.</p>
 <p align="justify">
   <h3>Year 01 Modules</h3>
