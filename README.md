@@ -136,7 +136,7 @@
 <hr>
 
 <h2 align="left">👔 Professional Experience</h2>
-<h3 align="justify"><b>Technical Consultant (Remote) | <i>PayGam Global, London, UK</i> | March 2026 – Present</b></h3>
+<h3 align="justify"><b>&#9670; Technical Consultant (Remote) | <i>PayGam Global, London, UK</i> | March 2026 – Present</b></h3>
 
 <p align="justify">At PayGam‑Global, our mission is to build a secure and progressive payment infrastructure that connects The Gambia and Africa at large. By leveraging modern technology, we provide seamless digital payment solutions and training and tailored for SMEs, corporates, e‑government, insurance, and financial sectors.</p>
 
@@ -154,7 +154,7 @@
     <li>Conducted real‑world analyses, including churn prediction and performance scoring, using Orange Data Mining to enhance consumer experience and empower digital growth.</li>
 </ul>  
    
-<h3 align="justify"><b>Full Stack Developer (Contract / Remote) | <i>AeroSenergy Software Development, Islamabad, Pakistan</i> | July 2025 – Present</b></h3>
+<h3 align="justify"><b>&#9670; Full Stack Developer (Contract / Remote) | <i>AeroSenergy Software Development, Islamabad, Pakistan</i> | July 2025 – Present</b></h3>
 <br>
 <p><b>1. Development & Engineering:</b></p>
     <ul>
@@ -181,7 +181,7 @@
   </ul>
 
  
-<h3 align="justify"><b>Tourism Marketing Coordinator (Part-Time / Remote) | <i>Mack Tours LK Limited, UK</i> | April 2025 – Present</b></h3>
+<h3 align="justify"><b>&#9670; Tourism Marketing Coordinator (Part-Time / Remote) | <i>Mack Tours LK Limited, UK</i> | April 2025 – Present</b></h3>
 <br>    
   <ul>
     <li>Serving as Tourism Marketing Coordinator at Mack Tours LK Limited (UK).</li>
@@ -194,7 +194,7 @@
     <li>Enhancing Mack Tours LK Limited’s global brand presence through impactful storytelling and campaigns.</li>   
   </ul>
 
-<h3 align="justify"><b></b>Artificial Intelligence Engineer Intern (Remote)</b> | <i>Sri Lanka IT Training Foundation (SLITT), Colombo, Sri Lanka</i> | May 2025 – Nov 2025</h3>
+<h3 align="justify"><b>&#9670; Artificial Intelligence Engineer Intern (Remote)</b> | <i>Sri Lanka IT Training Foundation (SLITT), Colombo, Sri Lanka</i> | May 2025 – Nov 2025</h3>
 <br>  
   <ul>
     <li>Collaboration : AI Development and Automation Agency, Colombo, Sri Lanka</li>
@@ -208,7 +208,7 @@
     <li>Applied prompt engineering and vector search to support intelligent search functions and chatbot capabilities.</li>    
   </ul>
 
-<h3 align="justify"><b></b>Research Assistant (Smart Grid and Power Lab)</b> – Full Time | <i>USPCAS-E, NUST, Islamabad, Pakistan</i> | Jun 2023 - Sep 2024.</h3>
+<h3 align="justify"><b>&#9670; Research Assistant (Smart Grid and Power Lab)</b> – Full Time | <i>USPCAS-E, NUST, Islamabad, Pakistan</i> | Jun 2023 - Sep 2024.</h3>
 <br> 
   <ul>
     <li><b>Research Thesis Title 01:</b> <a href="https://github.com/ShabbirNust22/Research_Thesis_one_Machine_Learning_Techniques_for_PowerSystem">Detecting Voltage Sinusoidal Harmonics using Artificial Intelligence/Machine Learning Techniques</a></li>
@@ -231,7 +231,7 @@
       <li><b>Lab Hands-On assistant</b>in Electronics, Automation, Machine Learning Techniques and Artificial Intelligence Tools</li>
   </ul>
 
-<h3 align="justify"><b></b>Associate Engineer (R&D / Product Support / Internship)</b> – Full Time  | <i>Electro Serv, Colombo, Sri Lanka</i> | June 2016 – March 2020</h3>
+<h3 align="justify"><b>&#9670; Associate Engineer (R&D / Product Support / Internship)</b> – Full Time  | <i>Electro Serv, Colombo, Sri Lanka</i> | June 2016 – March 2020</h3>
 <br> 
   <ul>
     <li>To identify and analyze Schneider Electrical component parts numbers.</li>
@@ -406,7 +406,9 @@
   </table>
 </p>
 
+<h3 align="justify"><b>Bachelor of Engineering (Honors) in Electrical & Electronic Engineering | <i>University of Bolton, UK [SLWC Branch Campus, Sri Lanka</i> | May 2017 – January 2019 (Plus: Pearson Edexcel BTEC HND Diploma in Electrical Engineering - May 2014 - May 2017)</b></h3>
 
+[![University of Bolton, United Kingdom - Certificate](https://img.shields.io/badge/University_of_Bolton_|_Certificate-lightsalmon?style=for-the-badge)](https://drive.google.com/file/d/1-wQZuav0S6RMosC56fSYkbjoXxNl-2dm/view?usp=sharing)
 
     
     
