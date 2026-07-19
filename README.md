@@ -1,8 +1,13 @@
 <h1 align="center">Ahmed Shabbir Ibrahim Moomin 😃⚡</h1>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=shabbir-moomin-reset&color=blue&style=flat-square" alt="Profile Views">
+&nbsp;&nbsp;<strong>Thank you for visiting my portfolio repository.</strong>
+</p>
+<!--
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shabbir-moomin&color=blue&style=flat-square" alt="Profile Views">
   &nbsp;&nbsp;<strong>Thank you for visiting my portfolio repository.</strong>
-</p>
+</p>-->
 
 
 
