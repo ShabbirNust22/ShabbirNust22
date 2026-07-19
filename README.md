@@ -410,24 +410,47 @@
 
 [![University of Bolton, United Kingdom - Certificate](https://img.shields.io/badge/University_of_Bolton_|_Certificate-lightsalmon?style=for-the-badge)](https://drive.google.com/file/d/1-wQZuav0S6RMosC56fSYkbjoXxNl-2dm/view?usp=sharing)
 
+<h3 align="justify"><b>Foundation in Engineering (USA Stream Transfer Program) | <i>Patten University, California, USA (American National College, Colombo)</i> | October 2008 – August 2012</b></h3>
+
+<h3 align="justify"><b>GCE (Edexcel - London) Advanced Levels | <i>Asian International School, Colombo, Sri Lanka</i> | January 2007 – August 2007</b></h3>
+
+<h3 align="justify"><b>GCE (Edexcel - London) Advanced Levels / Ordinary Levels | <i>Sri Lankan International School, Riyadh, Kingdom of Saudi Arabia</i> | September 1993 – August 2006</b></h3>
     
-    
-    
-    fvfv
-https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing
-<!--Updated documents 
-Published Research Thesis: https://www.cell.com/heliyon/fulltext/S2405-8440(24)12016-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844024120166%3Fshowall%3Dtrue
+<hr>    
+<h2 align="left">🎖️ Certificates</h2>
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fYpuCaMAAAAJ&citation_for_view=fYpuCaMAAAAJ:u-x6o8ySG0sC
+**Certificate in Advanced Gen AI | AI for All University, Singapore | May 2026**  
+[Certificate](https://drive.google.com/file/d/1LfS2o9yS-uiFx_6CWqt51GXxL1vYEOj/view?usp=sharing)
 
-LinkedIn: https://www.linkedin.com/in/shabbir-moomin
+**Certificate in Agile Project Management for Data Analysts | Udemy, USA | Apr 2026**  
+[Certificate](https://drive.google.com/file/d/1w1ulqjwML21xBeQRJtlwvZoRN-tQpn2/view?usp=sharing)
 
-## 🧠 Links
+**Certificate of Master ComfyUI Flux Kontext | Udemy, USA | Mar 2026**  
+[Certificate](https://drive.google.com/file/d/19IUtojU3ZxtGFUkagkL_t_CYXUDuUJti/view?usp=sharing)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/shabbir-moomin)
-[![Orcid](https://img.shields.io/badge/Orcid-green)](https://orcid.org/0009-0005-1605-9087)
+**Certificate in Machine Learning Essential for Business | AWS, USA | Sep 2025**  
+[Certificate](https://drive.google.com/file/d/1vvh_CAXviQ3Xa-pbOz6jGTlfxhgdmLX/view?usp=sharing)
 
--->
+**Diploma in Financial Accounting | Indian Institute of Technology (IIT), Mumbai‑NPTEL/Alison, India | Feb 2025**  
+[Certificate](https://drive.google.com/file/d/1Hpjab6ygHQjnna0X6H6tejnjUzKMch-R/view?usp=sharing)
+
+**Certificate in IT Technician | John Academy – Alison, United Kingdom | Dec 2024**  
+[Certificate](https://drive.google.com/file/d/119sD1EZ21D9xgyDjCtrRoGaiDKF_lSce/view?usp=sharing)
+
+**Certificate in Foundation of Data Engineering | Coursera – Google, USA | Jan 2024**  
+[Certificate](https://drive.google.com/file/d/1341c-MPHf2UJr_f1Ap4souTxj0rTCE/view?usp=sharing)
+
+**Certificate in Data Engineering | Coursera – IBM, USA | Dec 2023**  
+[Certificate](https://drive.google.com/file/d/1a3blDc8ZDTKo5Zh7WH4mXKMOI7vC3h/view?usp=sharing)
+
+**Certificate in Python Language | Coursera – University of Michigan, USA | Sep 2023**  
+[Certificate](https://drive.google.com/file/d/1d7yKkN2d-b3mZYPWkNt5P-c-Sdktuq2G/view?usp=sharing)
+
+**Certificate in Artificial Intelligence | Coursera – IBM, USA | Jul 2023**  
+[Certificate](https://drive.google.com/file/d/1MSmyBOA1AFY2pbCt772LoNzYDtrEhbMf/view?usp=sharing)
+
+**Diploma in Digital Marketing | Shaw Academic, Ireland | Sep 2018**  
+[Certificate](https://drive.google.com/file/d/1hxkl6wswg7m3xPTiweDRbhnplr3_hTff/view?usp=sharing)
 
 
 <!--## Hi there 👋-->
