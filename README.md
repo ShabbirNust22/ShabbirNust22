@@ -257,7 +257,9 @@
 
 <h2 align="left">🎓 Education</h2>
 <h3 align="justify"><b>Master Course in Data Analytics, Data Science, Machine Learning, Deep Learning and Natural Language Processing | <i>Udemy (Online) Learning Platform, California, USA</i> | January 2026 – July 2026</b></h3>
-<a href="https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing" target="_blank">View Certificate</a>
+
+[![Data Analytics - Certificate](https://img.shields.io/badge/Data_Analytics_|_Certificate-slategray?style=for-the-badge)](https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing)
+<!--<a href="https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing" target="_blank">View Certificate</a>-->
 <br>
 <p align="justify">
   <ul style="font-size:16px; line-height:1.6;">
@@ -456,6 +458,8 @@
 
 **Diploma in Digital Marketing | Shaw Academic, Ireland | Sep 2018**  
 [Certificate](https://drive.google.com/file/d/1hxkl6wswg7m3xPTiweDRbhnplr3_hTff/view?usp=sharing)
+
+<hr>
 
 
 <!--## Hi there 👋-->
