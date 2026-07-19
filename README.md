@@ -406,7 +406,7 @@
   </table>
 </p>
 
-<h3 align="justify"><b>Bachelor of Engineering (Honors) in Electrical & Electronic Engineering | <i>University of Bolton, UK [SLWC Branch Campus, Sri Lanka</i> | May 2017 – January 2019 (Plus: Pearson Edexcel BTEC HND Diploma in Electrical Engineering - May 2014 - May 2017)</b></h3>
+<h3 align="justify"><b>Bachelor of Engineering (Honors) in Electrical & Electronic Engineering | <i>University of Bolton, UK [SLWC Branch Campus, Sri Lanka]</i> | May 2017 – January 2019 (Plus: Pearson Edexcel BTEC HND Diploma in Electrical Engineering - May 2014 - May 2017)</b></h3>
 
 [![University of Bolton, United Kingdom - Certificate](https://img.shields.io/badge/University_of_Bolton_|_Certificate-lightsalmon?style=for-the-badge)](https://drive.google.com/file/d/1-wQZuav0S6RMosC56fSYkbjoXxNl-2dm/view?usp=sharing)
 
