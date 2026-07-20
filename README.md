@@ -256,7 +256,7 @@
 <hr>
 
 <h2 align="left">🎓 Education</h2>
-<h3 align="justify"><b>Master Course in Data Analytics, Data Science, Machine Learning, Deep Learning and Natural Language Processing | <i>Udemy (Online) Learning Platform, California, USA</i> | January 2026 – July 2026</b></h3>
+<h3 align="justify"><b>– Master Course in Data Analytics, Data Science, Machine Learning, Deep Learning and Natural Language Processing | <i>Udemy (Online) Learning Platform, California, USA</i> | January 2026 – July 2026</b></h3>
 
 [![Data Analytics - Certificate](https://img.shields.io/badge/Data_Analytics_|_Certificate-slategray?style=for-the-badge)](https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing)
 <!--<a href="https://drive.google.com/file/d/1Kakq4qJXF5PdJqqhF45Pgv3SfdenX2GY/view?usp=sharing" target="_blank">View Certificate</a>-->
@@ -284,7 +284,7 @@
   </ul>
 </p>
 
-<h3 align="justify"><b>Master of Science in Electrical Engineering (Power) with Research Thesis (Published: Heliyon) | <i>US-Pakistan Center for Advanced Studies in Energy, National University of Sciences and Technology, Islamabad, Pakistan</i> | September 2022 – September 2024</b></h3>
+<h3 align="justify"><b>– Master of Science in Electrical Engineering (Power) with Research Thesis (Published: Heliyon) | <i>US-Pakistan Center for Advanced Studies in Energy, National University of Sciences and Technology, Islamabad, Pakistan</i> | September 2022 – September 2024</b></h3>
 
 [![National University of Sciences and Technology, Pakistan - Certificate](https://img.shields.io/badge/National_University_of_Sciences_and_Technology_|_Certificate-navy?style=for-the-badge)](https://drive.google.com/file/d/1jUROIBSaP1Ncsb9CNXQ3E7RqPUQ4TX2o/view?usp=sharing)
 [![Convocation](https://img.shields.io/badge/Convocation-chocolate?style=for-the-badge)](https://drive.google.com/file/d/1s-8W52hHJZ0ixy5H3PkdLyL3KlmF-SL2/view?usp=sharing)
@@ -312,7 +312,7 @@
   </ul>
 </p>
 
-<h3 align="justify"><b>Bachelor of Science in Electronics and Automation Technologies | <i>University of Colombo, Sri Lanka</i> | January 2020 – January 2023</b></h3>
+<h3 align="justify"><b>– Bachelor of Science in Electronics and Automation Technologies | <i>University of Colombo, Sri Lanka</i> | January 2020 – January 2023</b></h3>
 <!--<a href="https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing" target="_blank">View Certificate</a>-->
 
 [![University of Colombo, Sri Lanka - Certificate](https://img.shields.io/badge/University_of_Colombo_|_Certificate-crimson?style=for-the-badge)](https://drive.google.com/file/d/1Qa9d8jzQ7FmnbHJeVcHmenGmH-20IMth/view?usp=sharing)
@@ -413,51 +413,40 @@
   </table>
 </p>
 
-<h3 align="justify"><b>Bachelor of Engineering (Honors) in Electrical & Electronic Engineering | <i>University of Bolton, UK [SLWC Branch Campus, Sri Lanka]</i> | May 2017 – January 2019 (Plus: Pearson Edexcel BTEC HND Diploma in Electrical Engineering - May 2014 - May 2017)</b></h3>
+<h3 align="justify"><b>– Bachelor of Engineering (Honors) in Electrical & Electronic Engineering | <i>University of Bolton, UK [SLWC Branch Campus, Sri Lanka]</i> | May 2017 – January 2019 (Plus: Pearson Edexcel BTEC HND Diploma in Electrical Engineering - May 2014 - May 2017)</b></h3>
 
 [![University of Bolton, United Kingdom - Certificate](https://img.shields.io/badge/University_of_Bolton_|_Certificate-lightsalmon?style=for-the-badge)](https://drive.google.com/file/d/1-wQZuav0S6RMosC56fSYkbjoXxNl-2dm/view?usp=sharing)
 
-<h3 align="justify"><b>Foundation in Engineering (USA Stream Transfer Program) | <i>Patten University, California, USA (American National College, Colombo)</i> | October 2008 – August 2012</b></h3>
+<h3 align="justify"><b>– Foundation in Engineering (USA Stream Transfer Program) | <i>Patten University, California, USA (American National College, Colombo)</i> | October 2008 – August 2012</b></h3>
 
-<h3 align="justify"><b>GCE (Edexcel - London) Advanced Levels | <i>Asian International School, Colombo, Sri Lanka</i> | January 2007 – August 2007</b></h3>
+<h3 align="justify"><b>– GCE (Edexcel - London) Advanced Levels | <i>Asian International School, Colombo, Sri Lanka</i> | January 2007 – August 2007</b></h3>
 
-<h3 align="justify"><b>GCE (Edexcel - London) Advanced Levels / Ordinary Levels | <i>Sri Lankan International School, Riyadh, Kingdom of Saudi Arabia</i> | September 1993 – August 2006</b></h3>
+<h3 align="justify"><b>– GCE (Edexcel - London) Advanced Levels / Ordinary Levels | <i>Sri Lankan International School, Riyadh, Kingdom of Saudi Arabia</i> | September 1993 – August 2006</b></h3>
     
 <hr>    
 <h2 align="left">🎖️ Certificates</h2>
 
-**Certificate in Advanced Gen AI | AI for All University, Singapore | May 2026**  
-[Certificate](https://drive.google.com/file/d/1LfS2o9yS-uiFx_6CWqt51GXxL1vYEOj/view?usp=sharing)
+**Certificate in Advanced Gen AI | AI for All University, Singapore | May 2026** | [Certificate](https://drive.google.com/file/d/1LfS2o9yS-uiFx_6CWqt51GXxL1vYEOj/view?usp=sharing)
 
-**Certificate in Agile Project Management for Data Analysts | Udemy, USA | Apr 2026**  
-[Certificate](https://drive.google.com/file/d/1w1ulqjwML21xBeQRJtlwvZoRN-tQpn2/view?usp=sharing)
+**Certificate in Agile Project Management for Data Analysts | Udemy, USA | Apr 2026** | [Certificate](https://drive.google.com/file/d/1w1ulqjwML21xBeQRJtlwvZoRN-tQpn2/view?usp=sharing)
 
-**Certificate of Master ComfyUI Flux Kontext | Udemy, USA | Mar 2026**  
-[Certificate](https://drive.google.com/file/d/19IUtojU3ZxtGFUkagkL_t_CYXUDuUJti/view?usp=sharing)
+**Certificate of Master ComfyUI Flux Kontext | Udemy, USA | Mar 2026** | [Certificate](https://drive.google.com/file/d/19IUtojU3ZxtGFUkagkL_t_CYXUDuUJti/view?usp=sharing)
 
-**Certificate in Machine Learning Essential for Business | AWS, USA | Sep 2025**  
-[Certificate](https://drive.google.com/file/d/1vvh_CAXviQ3Xa-pbOz6jGTlfxhgdmLX/view?usp=sharing)
+**Certificate in Machine Learning Essential for Business | AWS, USA | Sep 2025** | [Certificate](https://drive.google.com/file/d/1vvh_CAXviQ3Xa-pbOz6jGTlfxhgdmLX/view?usp=sharing)
 
-**Diploma in Financial Accounting | Indian Institute of Technology (IIT), Mumbai‑NPTEL/Alison, India | Feb 2025**  
-[Certificate](https://drive.google.com/file/d/1Hpjab6ygHQjnna0X6H6tejnjUzKMch-R/view?usp=sharing)
+**Diploma in Financial Accounting | Indian Institute of Technology (IIT), Mumbai‑NPTEL/Alison, India | Feb 2025** | [Certificate](https://drive.google.com/file/d/1Hpjab6ygHQjnna0X6H6tejnjUzKMch-R/view?usp=sharing)
 
-**Certificate in IT Technician | John Academy – Alison, United Kingdom | Dec 2024**  
-[Certificate](https://drive.google.com/file/d/119sD1EZ21D9xgyDjCtrRoGaiDKF_lSce/view?usp=sharing)
+**Certificate in IT Technician | John Academy – Alison, United Kingdom | Dec 2024** | [Certificate](https://drive.google.com/file/d/119sD1EZ21D9xgyDjCtrRoGaiDKF_lSce/view?usp=sharing)
 
-**Certificate in Foundation of Data Engineering | Coursera – Google, USA | Jan 2024**  
-[Certificate](https://drive.google.com/file/d/1341c-MPHf2UJr_f1Ap4souTxj0rTCE/view?usp=sharing)
+**Certificate in Foundation of Data Engineering | Coursera – Google, USA | Jan 2024** | [Certificate](https://drive.google.com/file/d/1341c-MPHf2UJr_f1Ap4souTxj0rTCE/view?usp=sharing)
 
-**Certificate in Data Engineering | Coursera – IBM, USA | Dec 2023**  
-[Certificate](https://drive.google.com/file/d/1a3blDc8ZDTKo5Zh7WH4mXKMOI7vC3h/view?usp=sharing)
+**Certificate in Data Engineering | Coursera – IBM, USA | Dec 2023** | [Certificate](https://drive.google.com/file/d/1a3blDc8ZDTKo5Zh7WH4mXKMOI7vC3h/view?usp=sharing)
 
-**Certificate in Python Language | Coursera – University of Michigan, USA | Sep 2023**  
-[Certificate](https://drive.google.com/file/d/1d7yKkN2d-b3mZYPWkNt5P-c-Sdktuq2G/view?usp=sharing)
+**Certificate in Python Language | Coursera – University of Michigan, USA | Sep 2023** | [Certificate](https://drive.google.com/file/d/1d7yKkN2d-b3mZYPWkNt5P-c-Sdktuq2G/view?usp=sharing)
 
-**Certificate in Artificial Intelligence | Coursera – IBM, USA | Jul 2023**  
-[Certificate](https://drive.google.com/file/d/1MSmyBOA1AFY2pbCt772LoNzYDtrEhbMf/view?usp=sharing)
+**Certificate in Artificial Intelligence | Coursera – IBM, USA | Jul 2023** | [Certificate](https://drive.google.com/file/d/1MSmyBOA1AFY2pbCt772LoNzYDtrEhbMf/view?usp=sharing)
 
-**Diploma in Digital Marketing | Shaw Academic, Ireland | Sep 2018**  
-[Certificate](https://drive.google.com/file/d/1hxkl6wswg7m3xPTiweDRbhnplr3_hTff/view?usp=sharing)
+**Diploma in Digital Marketing | Shaw Academic, Ireland | Sep 2018** | [Certificate](https://drive.google.com/file/d/1hxkl6wswg7m3xPTiweDRbhnplr3_hTff/view?usp=sharing)
 
 <hr>
 
