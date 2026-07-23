@@ -88,6 +88,8 @@
 
 
 
+
+
 <p align="justify">Electrical, Electronics and Automation:</p>
 
 ![Industrial Automation Control](https://img.shields.io/badge/Industrial_Automation_Control-olive)
@@ -425,6 +427,8 @@
     
 <hr>    
 <h2 align="left">🎖️ Certificates</h2>
+
+**Certificate of AI Mastery Program | Coursiv AI learning platform, Cyprus | July 2026** | [Certificate](https://drive.google.com/file/d/19daRDCFHh9RYZCNVRHnpGretBrUoEcL3/view?usp=sharing)
 
 **Certificate in Advanced Gen AI | AI for All University, Singapore | May 2026** | [Certificate](https://drive.google.com/file/d/1LfS2o9yS-uiFx_6CWqt51GXxL1vYEOj/view?usp=sharing)
 
