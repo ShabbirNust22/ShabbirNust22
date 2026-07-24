@@ -75,7 +75,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-green)
 [![Gen AI: Projects](https://img.shields.io/badge/Gen_AI_(Projects)-pink)](https://drive.google.com/drive/u/0/folders/1JxStfsufw0bohHTFHCh9-1PyRDO4HZlO)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-lightblue)
-![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)
+[![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)](https://share.google/aimode/jGtV2NxUKNdCwVVu4)
 ![Google CoLab](https://img.shields.io/badge/Google_CoLab-grey)
 ![PowerBI (Dashboard-Visualization)](https://img.shields.io/badge/PowerBI_(Dashboard_Visualization)-yellow)
 ![Large Language Models (LLMs)](https://img.shields.io/badge/Large_Language_Models_(LLMs)-red)
@@ -85,8 +85,7 @@
 ![Firebase Studio/Figma AI Software](https://img.shields.io/badge/Firebase_Studio_/_Figma_AI_Software-saddlebrown)
 [![Canva/CapCut: Projects](https://img.shields.io/badge/Canva_/_CapCut_(Project)-darksalmon)](https://drive.google.com/drive/u/0/folders/1uQ2BhgQ5d-z8m_E-RvoOmt3d36qMD7fG)
 
-
-
+<!--![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)-->
 
 
 
