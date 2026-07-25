@@ -81,11 +81,12 @@
 [![Large Language Models (LLMs)](https://img.shields.io/badge/Large_Language_Models_(LLMs)-red)](https://share.google/aimode/NVqxUnEZgy9baW4YS)
 [![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval_Augmented_Generation_(RAG)-black)](https://share.google/aimode/E9k32ZgHcWO9QAFc7)
 [![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural_Language_Processing_(NLP)-grey)](https://share.google/aimode/okRSLsHgXf96ajy10)
-[![n8n Automation Workflow](https://img.shields.io/badge/n8n_Automation_Workflow-cyan)](https://share.google/aimode/nMm2LaztSahZxNUkC)
+[![n8n Automation Workflow (Projects)](https://img.shields.io/badge/n8n_Automation_Workflow_(Projects)-cyan)](https://github.com/ShabbirNust22/n8n_Automation_Workflow_Projects)
 [![Firebase Studio/Figma AI Software](https://img.shields.io/badge/Firebase_Studio_/_Figma_AI_Software-saddlebrown)](https://share.google/aimode/gCtss5HTcgSovHcRs)
 [![Canva/CapCut: Projects](https://img.shields.io/badge/Canva_/_CapCut_(Project)-darksalmon)](https://drive.google.com/drive/u/0/folders/1uQ2BhgQ5d-z8m_E-RvoOmt3d36qMD7fG)
 
-<!--![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)-->
+<!--![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-orange)
+[![n8n Automation Workflow](https://img.shields.io/badge/n8n_Automation_Workflow-cyan)](https://share.google/aimode/nMm2LaztSahZxNUkC)-->
 
 
 
@@ -96,7 +97,7 @@
 [![Induction and Electric Motors](https://img.shields.io/badge/Induction_and_Electric_Motors-fuchsia)](https://share.google/aimode/R2BJLVFGAWfsIBgMP)
 [![Electricity Transmission lines](https://img.shields.io/badge/Electricity_Transmission_lines-indigo)](https://share.google/aimode/dk18nHR6zE5K3j44B)
 [![Solar and Wind Power Microgrids](https://img.shields.io/badge/Solar_and_Wind_Power_Microgrids-crimson)](https://share.google/aimode/hAIrC62GsA8E5hGXj)
-[![Programmable Logic Controllers](https://img.shields.io/badge/Programmable_Logic_Controllers-deeppink)]()()
+[![Programmable Logic Controllers](https://img.shields.io/badge/Programmable_Logic_Controllers-deeppink)](https://share.google/aimode/B2V74O9AyhikMUN23)
 [![Smart Grid Engineering](https://img.shields.io/badge/Smart_Grid_Engineering-orangered)](https://share.google/aimode/X6wms5Br0ZVZRCJqY)
 [![Circuit Breakers](https://img.shields.io/badge/Circuit_Breakers-gold)](https://share.google/aimode/kE5XVCA6LZ5eGSBa2)
 [![MATLAB Simulink](https://img.shields.io/badge/MATLAB_Simulink-khaki)](https://share.google/aimode/s9sWUQ8M19rRdlW7A)
