@@ -216,7 +216,7 @@
 
 <h3 align="justify"><b>&#9670; Research Assistant (Smart Grid and Power Lab)</b> – Full Time | <i>USPCAS-E, NUST, Islamabad, Pakistan</i> | Jun 2023 - Sep 2024.</h3>
 <br> 
-  <ul>
+  <ul> 
     <li><b>Research Thesis Title 01:</b> <a href="https://github.com/ShabbirNust22/Research_Thesis_one_Machine_Learning_Techniques_for_PowerSystem">Detecting Voltage Sinusoidal Harmonics using Artificial Intelligence/Machine Learning Techniques</a></li>
     <li>Conducted testing and analysis using a full 4-quadrant Grid Simulator Amplifier (Regatron Machine - Hardware) for analyzing high voltage AC waveforms of the power grid.</li>
     <li>Processed Regatron Machine results using its software on the lab system.</li>
