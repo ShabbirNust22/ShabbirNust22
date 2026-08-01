@@ -140,6 +140,13 @@
 [![Arduino Motor Control Software](https://img.shields.io/badge/Arduino_Motor_Control_Software-mediumorchid)](https://share.google/aimode/Xg5ChFgZugDHR0Bxc)
 [![Embedded Linux (Kernel) Development](https://img.shields.io/badge/Embedded_Linux_(Kernel)_Development-darkkhaki)](https://share.google/aimode/xMRSzGe9J0x2xGrVD)
 
+
+<p align="justify">Projects - Click to View:</p>
+
+[![Gen AI: Projects](https://img.shields.io/badge/Gen_AI_(Projects)-red)](https://drive.google.com/drive/u/0/folders/1JxStfsufw0bohHTFHCh9-1PyRDO4HZlO)
+[![Canva/CapCut: Projects](https://img.shields.io/badge/Canva_/_CapCut_(Project)-light_green)](https://drive.google.com/drive/u/0/folders/1uQ2BhgQ5d-z8m_E-RvoOmt3d36qMD7fG)
+[![n8n Automation Workflow (Projects)](https://img.shields.io/badge/n8n_Automation_Workflow_(Projects)-blue)](https://github.com/ShabbirNust22/n8n_Automation_Workflow_Projects)
+
 <hr>
 
 <h2 align="left">👔 Professional Experience</h2>
